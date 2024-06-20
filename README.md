@@ -3,6 +3,8 @@
 
 Este projeto é uma aplicação web que permite descobrir a numerologia do nome da sua empresa e, com isso, escolher o nome mais adequado para o seu negócio. A aplicação foi desenvolvida utilizando Vite, React, TypeScript e Tailwind CSS.
 
+acesse o site: https://victorcastro98.github.io/numerology-and-seo/
+
 ## Tecnologias Utilizadas
 
 ### Vite
